@@ -1,6 +1,5 @@
 # PRODIGY_WD_02
-stopwatch app
-Afra's Stopwatch
+
 Welcome to Afra's Stopwatch! This application allows you to measure elapsed time, record lap times, and reset the timer as needed. Below you will find instructions for setting up and using the stopwatch.
 
 Table of Contents
